@@ -6,3 +6,4 @@ target/
 *.log
 .vscode/
 .metals/
+.pom.xml
